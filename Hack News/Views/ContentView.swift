@@ -20,7 +20,7 @@ struct ContentView: View {
           }
         }
       }
-      .navigationTitle("Hack News")
+      .navigationTitle("Hack News2")
     }
     .onAppear {
       self.netManager.fetchData()
